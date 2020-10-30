@@ -8,4 +8,4 @@ The easiest way is to use the 'cargo' package manager, first navigate to the rep
 cargo run --release
 ```
 
-While the simulation is running the visibility of the agents inner state can be togled. Press 's' to show them or press 'h' to hide them.
+While the simulation is running the visibility of the agents inner state can be toggled. Press 's' to show them or press 'h' to hide them.
